@@ -1,0 +1,9 @@
+[general]
+name=Coordinate Picker
+description=Click on the map to get coordinates (latitude and longitude)
+version=1.0
+qgisMinimumVersion=3.0
+author=Your Name
+email=you@example.com
+category=Plugins
+icon=icon.png
