@@ -1,18 +1,15 @@
-## 🧭 Coordinate Picker for QGIS
+## Coordinate Picker for QGIS
 
 ![QGIS Plugin](https://img.shields.io/badge/QGIS-Plugin-brightgreen?logo=qgis)
 ![Downloads](https://img.shields.io/badge/Downloads-100%2B-blue)
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-yellow)
 ![Version](https://img.shields.io/badge/Version-1.0-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
 <p align="center">
   <img src="icon.png" alt="Coordinate Picker Icon" width="80" height="80">
 </p>
-
----
 
 ## Overview
 
@@ -36,7 +33,7 @@ Perfect for surveyors, mappers, GIS students, or anyone who needs quick coordina
 
 ## Installation
 
-### Option 1 — Manual Install
+### Option 1: Manual Install
 1. Download the latest release or clone this repository:
    ```bash
    git clone https://github.com/mdkhademali/coordinate-picker.git
@@ -49,8 +46,8 @@ Perfect for surveyors, mappers, GIS students, or anyone who needs quick coordina
 4. Go to **Plugins → Manage and Install Plugins → Installed**  
 5. Enable **Coordinate Picker**
 
-### Option 2 — ZIP Installation
-1. Download ZIP → `coordinate_picker.zip`  
+### Option 2: ZIP Installation
+1. Download ZIP → `coordinate-picker.zip`  
 2. In QGIS: **Plugins → Manage and Install Plugins → Install from ZIP...**  
 3. Browse to the ZIP file → Click **Install Plugin**
 
@@ -67,19 +64,6 @@ Perfect for surveyors, mappers, GIS students, or anyone who needs quick coordina
    Longitude: 90.4125
    ```
 5. The coordinates are automatically copied to clipboard  
-
----
-
-## Icon Customization
-
-You can replace the default icon by editing the `icon.png` file in the plugin directory.  
-Recommended size: **24×24 px**  
-Transparent background (PNG or SVG)  
-
-If you change it, run this command to regenerate the resource file:
-```bash
-pyrcc5 resources.qrc -o resources_rc.py
-```
 
 ---
 
@@ -108,8 +92,4 @@ pyrcc5 resources.qrc -o resources_rc.py
 Pull requests are welcome!  
 If you find any issue, feel free to open an **Issue** on GitHub.
 
----
-
-<p align="center">
-  Made with ❤️ in Python for QGIS
-</p>
+© mdkhademali
