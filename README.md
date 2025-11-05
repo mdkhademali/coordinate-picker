@@ -14,7 +14,7 @@
 ## Overview
 
 **Coordinate Picker** is a lightweight QGIS plugin that lets you quickly pick map coordinates by clicking on the canvas.  
-Each click drops a marker and displays the latitude and longitude instantly — also copied to your clipboard automatically.  
+Each click drops a marker and displays the latitude and longitude instantly, also copied to your clipboard automatically.  
 
 Perfect for surveyors, mappers, GIS students, or anyone who needs quick coordinate collection without extra hassle.
 
