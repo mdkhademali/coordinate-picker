@@ -71,7 +71,7 @@ Perfect for surveyors, mappers, GIS students, or anyone who needs quick coordina
 
 | Component | Version |
 |------------|----------|
-| **QGIS** | 3.0 or higher |
+| **QGIS** | 3.0 or higher version |
 | **Python** | 3.10+ |
 | **PyQt5** | Installed with QGIS |
 | **Operating System** | Windows / Linux / macOS |
